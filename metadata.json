@@ -1,0 +1,6 @@
+{
+  "name": "B2B Leads Scanner",
+  "description": "B2B Lead Generation scanner with OSM Boundaries, grid search & Google Places API",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
